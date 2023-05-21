@@ -325,8 +325,8 @@ border-radius: 4px;
   .btn-list {
     margin-bottom: 72px;
     display: flex;
-    gap: 24px;
-    justify-content: center;    
+    justify-content: center;
+    gap: 24px;    
   }
 
   .btn-item {
@@ -334,8 +334,9 @@ border-radius: 4px;
 
   .btn-portfolio {    
     display: flex;
-justify-content: center;
+/* justify-content: center; */
 align-items: center;
+text-align: center;
 padding: 12px 24px;
 border: 1px solid #E7E9FC;
 border-radius: 4px;
